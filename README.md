@@ -1,3 +1,5 @@
+> This project is only created for Centific Dog-Fooding program which aims to test the robust of the LLM.
+
 # Tamagui + Solito + Next + Expo Monorepo
 
 ```sh
